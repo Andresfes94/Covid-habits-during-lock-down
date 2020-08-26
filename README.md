@@ -33,6 +33,6 @@ During this project we will:
 ## Resources
 
 
-<a href='https://spotifycharts.com/'>
+<a href='https://spotifycharts.com/'>Spotify charts</a>
 
 
