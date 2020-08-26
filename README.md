@@ -8,12 +8,14 @@ A project to investigate if listening habits changed according to lockdown measu
 - [Project Description](#project-description)
 - [Project Goals](#project-goals)
 - [Data Workflow](#data-workflow)
-- [Possible analysis](#Possible analysis)
+- [Possible analysis](#Possible-analysis)
 - [Resources](#resources)
 
 ## Project Description  
 A project to investigate if listening habits changed according to lockdown measures.
-Question can we see some 
+
+Question:
+"can we see a change on streams per week during the lockdown period?"
 
 ## Project Goals
 During this project we will:
