@@ -39,6 +39,17 @@ During this project we will:
 ## Possible analysis
 
 
+## Problems encountered
+Throughout the project we ran into a few problems, which were an opportunity to learn more on those topics. 
+
+#### Git
+Because we wanted to avoid problems with file conflicts, we decided to use personal branches. However, because we were still unacustomend to this system it actually created some problems. We learnt how to work with branches, switching between them, resolving conflicts and how to merge. \
+
+#### Pickles
+To have a modular approach we wanted to split tasks and output a pickle after each task. However, somehow 2 of our laptops were unable to open pickle files. Because of this we reverted to working with csv files, meaning we had to redefine dtypes, columns and indexes. 
+
+#### Empty data
+After running our script to download all the csv's from Spotify, we had some errors where we could not import into pandas. It turned out 3 countries did not have any data on Spotify. We excluded this from our datasets.
 
 ## Resources
 
