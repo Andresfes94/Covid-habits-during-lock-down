@@ -8,7 +8,8 @@ A project to investigate if listening habits changed according to lockdown measu
 - [Project Description](#project-description)
 - [Project Goals](#project-goals)
 - [Data Workflow](#data-workflow)
-- [Possible analysis](#Possible-analysis)
+- [Possible analysis](#possible-analysis)
+- [Problems encountered](#problems-encountered)
 - [Resources](#resources)
 
 ## Project Description  
