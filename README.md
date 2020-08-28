@@ -52,6 +52,9 @@ To have a modular approach we wanted to split tasks and output a pickle after ea
 #### Empty data
 After running our script to download all the csv's from Spotify, we had some errors where we could not import into pandas. It turned out 3 countries did not have any data on Spotify. We excluded this from our datasets.
 
+#### Plotting data
+We initially wanted to plot the Spotify data as two barcharts, immediately comparing year-on-year. The lockdown data would overlay as a line. However, it turned out to be quite difficult to create the separate bar charts. 
+
 ## Resources
 
 
