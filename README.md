@@ -10,6 +10,7 @@ A project to investigate if listening habits changed according to lockdown measu
 - [Data Workflow](#data-workflow)
 - [Possible analysis](#possible-analysis)
 - [Problems encountered](#problems-encountered)
+- [Future work](#future-work)
 - [Resources](#resources)
 
 ## Project Description  
@@ -55,8 +56,10 @@ After running our script to download all the csv's from Spotify, we had some err
 #### Plotting data
 We initially wanted to plot the Spotify data as two barcharts, immediately comparing year-on-year. The lockdown data would overlay as a line. However, it turned out to be quite difficult to create the separate bar charts. 
 
-## Resources
+## Future work
+With this data we only have a visualization of a possible correlation between number of streams and lockdown stingengy. In the future it would be possible to quantify this possible correlation and see if there is a tendency.
 
+## Resources
 
 <a href='https://covidtracker.bsg.ox.ac.uk/'>Oxford COVID-19 Government Response Tracker</a>
 
